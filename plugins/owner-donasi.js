@@ -5,11 +5,11 @@ Want Support Bot?
 
 *[ PAYMENT METHOD ]*
 
-- Pulsa/pulse(Telkomsel): *${pulsa}*
-- Dana/ovo: *${dana}*
+- Topup(Digi): *${pulsa}*
+- Topup(Maxis): *${dana}*
 - Paypal: *${paypal}*
 - Saweria: *${saweria}*
-- Trakteer: *${trakteer}*
+- Link: *https://lynk.id/botzlynn_*
 
 Setelah melakukan donasi kirim bukti pembayaran ke owner
 `
