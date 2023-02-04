@@ -4,8 +4,7 @@ import fetch from 'node-fetch'
 import moment from 'moment-timezone'
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 let str = `*[ Source Code ]*
-- My Github:
-${sgh}`
+- Mau sc? Dezsah dlu`
 await conn.relayMessage(m.chat,  {
     requestPaymentMessage: {
       currencyCodeIso4217: 'USD',
