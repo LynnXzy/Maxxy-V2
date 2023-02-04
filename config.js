@@ -6,11 +6,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ["6285380166282"],
-  ["6285380166282", "️𝐎𝐰𝐧𝐞𝐫", true]
+  ["60189830350"],
+  ["60148431385", "️𝐎𝐰𝐧𝐞𝐫", true]
 ]
-global.mods = ["6285380166282"]
-global.prems = ["6285380166282"]
+global.mods = ["60189830350"]
+global.prems = ["60189830350"]
 
 /*Website*/
 global.APIs = {
@@ -68,19 +68,19 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "6285380166282"
-global.nomorown = "6285380166282"
-global.namebot = "𝙼𝚊𝚡𝚡𝚢 𝙵𝚝 𝙱𝚎𝚊𝚝𝚛𝚒𝚡"
-global.nameown = "「 𝙆𝙖𝙝𝙛𝙞 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 」"
+global.nomorbot = "60148431385"
+global.nomorown = "60189830350"
+global.namebot = "ʟʏɴɴ-ᴍᴅ"
+global.nameown = "「 𝙊𝙬𝙣-𝙇𝙮𝙣𝙣 」"
 
 /* Random */
 global.pmenus = pickRandom(["◈","➭","ଓ","⟆•","⳻⳻","•","↬","◈▻","⭑","ᯬ","◉","᭻","»","〆","々","⛥","✗","⚜","⚚","♪"])
 global.htjava = pickRandom(["⛶","❏","⫹⫺","☰","⎔","✦","⭔","⬟","⛊","⚝"])
 
 /*Watermark*/
-global.wm = "                「 Maxxy Botz あ⁩ 」"
+global.wm = "                「 Lynn Botz あ⁩ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + "𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + "𝙻𝚢𝚗𝚗 𝙱𝚘𝚝𝚣"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -96,13 +96,13 @@ global.flaaa = [
 "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="]
 
 /*Link*/
-global.sig = "https://instagram.com/kahfiofc"
-global.sgh = "https://www.github.com/Frezzy-Md"
-global.sgc = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.sig = "https://instagram.com/botzlynx"
+global.sgh = "https://www.github.com/LynnXzy"
+global.sgc = "https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD"
 global.sdc = "-"
-global.snh = "https://lynk.id/kahfi.xd"
-global.sfb = "https://www.facebook.com/kahfiofc"
-global.syt = "https://www.youtube.com/@MaxxyBotz"
+global.snh = "https://lynk.id/botzlynn_"
+global.sfb = "https://www.facebook.com"
+global.syt = "https://www.youtube.com/@lynnxzy2951"
 
 /*Nsfw*/
 global.premnsfw = true
@@ -213,7 +213,7 @@ global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.packname = "𝗠𝗮𝗱𝗲 𝗕𝘆"
 global.stickpack = packname
-global.author = "𝙈𝙖𝙭𝙭𝙮 乂 𝙆𝙖𝙝𝙛𝙞"
+global.author = "𝙇𝙮𝙣𝙣 乂 𝙈𝙙"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
@@ -221,22 +221,22 @@ global.multiplier = 69
 global.eror = "*E R R O R*"
 global.wait = "*W A I T*"
 global.render = "*R E N D E R*"
-global.webs = "https://lynk.id/kahfi.xd"
-global.gcwangsaf = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.webs = "https://lynk.id/botzlynn_"
+global.gcwangsaf = "https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD"
 
 /*Donasi*/
-global.saweria = "https://saweria.co/MaxxyBotz"
-global.dana = "085380166282"
-global.pulsa = "085295374964"
+global.saweria = "-"
+global.dana = "-"
+global.pulsa = "-"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
-global.pdana = "085380166282"
+global.pdana = "-"
 global.povo = "-"
 global.pgopay = "-"
-global.ppulsa = "085380166282"
-global.ppulsa2 = "085380166282"
-global.psaweria = "https://saweria.co/MaxxyBotz"
+global.ppulsa = "-"
+global.ppulsa2 = "-"
+global.psaweria = "-"
 
 /* Fake adReplyS*/
 		global.adReplyS = {
@@ -251,7 +251,7 @@ global.psaweria = "https://saweria.co/MaxxyBotz"
 						description: "WudySoft",
 						previewType: "PHOTO",
 						thumbnail: await fs.readFileSync("./thumbnail.jpg"),
-						sourceUrl: "https://github.com/Frezzy-XD",
+						sourceUrl: "https://github.com/LynnXzy",
 				}
 			}
 		}
@@ -267,7 +267,7 @@ global.psaweria = "https://saweria.co/MaxxyBotz"
 						mediaUrl: sgc,
 						renderLargerThumbnail: true,
 						showAdAttribution: true,
-						sourceId: "Maxxy",
+						sourceId: "Lynn",
 						sourceType: "PDF",
 						previewType: "PDF",
 						sourceUrl: sgc,
@@ -498,7 +498,7 @@ function Sapa() {
   
   /* Fake Reply */
   function Fakes() {
-let Org = pickRandom(["0", "628561122343", "6288906250517"])
+let Org = pickRandom(["0", "60189830350", "60149431385"])
 let Hai = pickRandom(["Apa kabar ", "Halo ", "Hai "])
 let Sarapan = "👋 " + Hai + Pagi()
 let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEYARgMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADEnCzTm0o6l9dSQ2tZIqAZp3lgW3R0F84n1eWZAxdnDpHLdVh6N6pToxM0GdmXql5xOhCOrw0bnmvQzTeRomNX7G5edD0dcDD9EE2UwlzkBrmwBf/EACkQAAICAQMDAwMFAAAAAAAAAAECAAMRBCExEBJBBRMiIFFhIzIzQnH/2gAIAQEAAT8AlaF2xDUi4UcmfFBtExx5j1r3DbmPRvsYylTg9UsFagDmG5i2YXc+YLHByDPefIJgvyRkSwrYCR9HY2cAGNRZ2rhDFpfO6njrkjrp0V3+XgRbFf8AbU0pwUG0tQdhjCr+1bH8y3HeSvHQdNE4S9SYtiZyvBilQISCIzDtAwJ6iEUIEAmDjPiDpQ3bah/M9pTuJgKIVyJ7GeZ6hhbVQcAQsBUF8k5i9MzQ6lbqgCfkIQTBmOyopYzVWi21mHRYnppx+o2DL9AKaO7OTKLyrVqowc7mLZ94bV8TVtmlsmFecbgQROJzfPUiRSJQM3J/vXXfwGaMhmNZGzS1PbtZfsZUJ//EABgRAAMBAQAAAAAAAAAAAAAAAAABETAg/9oACAECAQE/AEVFHMbi+P/EABwRAAEEAwEAAAAAAAAAAAAAACAAAQIREBIxQf/aAAgBAwEBPwA6CorWL+gwxT8z/9k="
