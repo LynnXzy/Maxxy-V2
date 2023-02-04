@@ -226,8 +226,8 @@ global.gcwangsaf = "https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD"
 
 /*Donasi*/
 global.saweria = "-"
-global.dana = "-"
-global.pulsa = "-"
+global.dana = "60147675746"
+global.pulsa = "60149431385"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
@@ -236,7 +236,7 @@ global.povo = "-"
 global.pgopay = "-"
 global.ppulsa = "-"
 global.ppulsa2 = "-"
-global.psaweria = "-"
+global.psaweria = "https://lynk.id/botzlynn_"
 
 /* Fake adReplyS*/
 		global.adReplyS = {
