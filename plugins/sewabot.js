@@ -9,17 +9,36 @@ if (command == 'sewabot') {
 
 *• SEWA BOT & UP TO PREMIUM •*
         
-1. Grup / 30 Hari
-Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+1. Grup / Sewa
+Rm. 5.00 / 7 Hari
+Rm. 20.00 / 30 Hari
+Rm. 25.00 / 60 Hari
+Rm. 40.00 / 90 Hari
+Rm. 50.00 / Unlimited
 
-2. Premium / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+2. Premium / Botz
+Rm. 5.00 / 15 Hari
+Rm. 20.00 / 30 Hari
+Rm. 25.00 / 45 Hari
+Rm. 30.00 / 60 Hari
+Rm. 45.00 / Unlimited
 
-3. Premium + Grup / 30 Hari
-Rp. 20.000 Dana
-Rp. 20.000 Pulsa
+3. Keuntungan?
+- Fitur nya 
+- Antilink..(kek org ngirim link grub lain nah otomatis d kik)
+
+- Welcome(org bru yg bergabung grub bakal di sapa sama bot kyk haloo, selamat dtg gtu)
+
+- Tutup/buka group
+
+- Ada fitur games (bsa bkin gc ga sepi)
+
+- antivirtex/virus( klo org ngirim bakal di kik sama bot dan virtex nya d hpus)
+
+Keuntungan sewa bot
+- Grub rame
+- Member Auto Banyak
+- Jaga Grub
 
 wa.me/${nomorown}
 *Bukan Bot!!!*
@@ -183,7 +202,7 @@ if (tema == 'aud') {
 						"jpegThumbnail": m.quoted.jpegThumbnail
 }},{quoted: fakes})
   
-  }
+  } 
   }
   }
 handler.command = ['sewabot', 'mengproduk', 'mengorder', 'mengfake', 'menggrup', 'mengpay']
