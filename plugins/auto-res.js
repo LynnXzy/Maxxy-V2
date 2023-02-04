@@ -18,7 +18,7 @@ mediaType:  1,
 mediaUrl: sig,
 title: '「 ❔ 」',
 body: wm,
-sourceUrl: 'http://github.com/AyGemuy',
+sourceUrl: 'http://github.com/LynnXzy',
 thumbnail: await( await fetch(pp)).buffer()
   }
  }}, { quoted: m })
