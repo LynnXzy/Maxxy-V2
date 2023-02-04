@@ -24,10 +24,10 @@ Rm. 30.00 / 60 Hari
 Rm. 45.00 / Unlimited
 
 3. Keuntungan?
-- Fitur nya 
-- Antilink..(kek org ngirim link grub lain nah otomatis d kik)
+ 
+- Antilink (kek org ngirim link grub lain nah otomatis d kik)
 
-- Welcome(org bru yg bergabung grub bakal di sapa sama bot kyk haloo, selamat dtg gtu)
+- Welcome/left (org bru yg bergabung/left grub bakal di sapa sama bot kyk haloo, selamat dtg gtu)
 
 - Tutup/buka group
 
