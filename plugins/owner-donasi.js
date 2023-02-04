@@ -8,8 +8,8 @@ Want Support Bot?
 - Topup(Digi): *${pulsa}*
 - Topup(Maxis): *${dana}*
 - Paypal: *${paypal}*
-- Saweria: *${saweria}*
-- Link: *https://lynk.id/botzlynn_*
+- Link: *${saweria}*
+- Owner: *Wa.me/+60189830350*
 
 Setelah melakukan donasi kirim bukti pembayaran ke owner
 `
