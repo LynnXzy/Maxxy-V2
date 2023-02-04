@@ -10,17 +10,17 @@ let anu = `Hallo mypren 👋
 ⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
           
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
-⬡ *1 BULAN* 15.000
-⬡ *2 BULAN:* 25.000
-⬡ *PERMANEN:* 30.000
+⬡ *1 BULAN* 25.00
+⬡ *2 BULAN:* 35.00
+⬡ *PERMANEN:* 40.00
 ┗━━━━━━━━━━━━━━━━━━ꕥ
 ┏━━━〔 ıll *PAYMENT* llı 〕━━ꕥ
-⬡ *DANA:* ${dana}
-⬡ *GOPAY:* ${gopay}
-⬡ *OVO:* ${pulsa}
+⬡ *Maxis:* ${dana}
+⬡ *Digi:* ${pulsa}
+⬡ *Link:* ${saweria}
 ┗━━━━━━━━━━━━━━━━━━ꕥ
 ┏━━〔 ıll *RULES* llı 〕━ꕥ
-⬡ [❗] *Dana yang sudah masuk tidak bisa di kembalikan*
+⬡ [❗] *Topup yang sudah masuk tidak bisa di kembalikan*
 ⬡ [❗] *Kalau akunmu ke banned bukan urusan saya*
 ┗━━━━━━━━━━ꕥ
 Jika anda berminat hubungi nomor di bawah!!
